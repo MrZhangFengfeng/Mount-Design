@@ -1,0 +1,9 @@
+@import '../../styles/_base';
+@import '../../styles/mixin';
+
+.alert {
+    width: 200px;
+    height: 50px;
+    background-color: $green;
+    border-radius: $border-radius;
+}
